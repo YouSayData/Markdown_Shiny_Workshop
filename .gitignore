@@ -1,3 +1,10 @@
+# RMarkdown Output
+*.html
+*.pdf
+*.docx
+*_files/
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
